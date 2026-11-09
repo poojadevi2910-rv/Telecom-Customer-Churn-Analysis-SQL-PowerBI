@@ -13,7 +13,7 @@ The project uses **SQL Server** for data exploration and analysis and **Power BI
 - Identify opportunities to reduce customer attrition and potential recurring revenue loss.
 
 ## Tools & Technologies
-- **SQL Server:** Data exploration, data quality checks, querying, aggregations, joins, and analytical queries.
+- **SQL Server:** Data exploration, data quality checks, querying, aggregations and analytical queries.
 - **Power BI:** Interactive dashboard development and data visualization.
 - **Power Query:** Data cleaning and transformation.
 - **DAX:** Measures and churn rate calculations.
@@ -26,7 +26,7 @@ The project uses **SQL Server** for data exploration and analysis and **Power BI
 - Explored table structures, columns, and data types.
 - Performed data quality checks to identify missing values and potential inconsistencies.
 - Used SQL queries to analyze customer churn patterns.
-- Applied filtering, grouping, aggregations, and joins to derive business insights.
+- Applied filtering, grouping, aggregations to derive business insights.
 
 ### 2. Data Transformation & Visualization – Power BI
 - Imported data into Power BI.
@@ -63,7 +63,7 @@ The project uses **SQL Server** for data exploration and analysis and **Power BI
 ## Skills Demonstrated
 - SQL querying and data analysis
 - Data exploration and quality checks
-- Joins, aggregations, and filtering
+- Aggregations and filtering
 - Power Query data transformation
 - Data modeling
 - DAX measures
